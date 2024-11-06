@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/Puma-Webpage-Clone.git
+git clone https://remansu.github.io/Puma-Clone/
 Open the project: Navigate to the project folder and open index.html in your preferred browser.
 
 bash
